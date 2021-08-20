@@ -1,3 +1,7 @@
+# Handy Blog
+
+This is a simple blog using React and JSON server, to run the website run "npm run start" on terminal and run "npx json-server --watch data/db.json --port 8000" on another terminal. For example of the project can be seen in the documentation folder.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
