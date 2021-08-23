@@ -2,7 +2,7 @@
 
 This is a simple blog using React and JSON server, to run the website run "npm run start" on terminal and run "npx json-server --watch data/db.json --port 8000" on another terminal. For example of the project can be seen in the documentation folder.
 
-![alt text](https://github.com/hprayoga/hprayoga00/handy-blog/blob/master/documentation/Home.png?raw=true)
+![alt text](https://github.com/hprayoga00/handy-blog/blob/master/documentation/Home.png?raw=true)
 
 # Getting Started with Create React App
 
